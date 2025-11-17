@@ -12,9 +12,18 @@ Describe what the starter code does and what problems you noticed.
 
 Explain the bugs you found in the starter code:
 
-- **Bug 1**: What was the problem? Why did it happen? How did you fix it?
-- **Bug 2**: What was the second problem? Why did it happen? How did you fix it?
-- **Bug 3**: What was the third problem? Why did it happen? How did you fix it?
+- **Bug 1**: 
+  - What was the problem?
+  - Why did it happen?
+  - How did you fix it?
+- **Bug 2**: 
+  - What was the second problem?
+  - Why did it happen?
+  - How did you fix it?
+- **Bug 3**:
+  - What was the third problem?
+  - Why did it happen?
+  - How did you fix it?
 - **(More bugs if you found them)**
 
 ---
@@ -32,6 +41,8 @@ Write a few sentences about:
 ## 4. AI Disclosure
 
 **Did you use AI tools?** (ChatGPT, Copilot, Claude, etc.)
+No AI tools were used.
+
 
 - If YES: Which tools? What did they help with? What did you do yourself?
 - If NO: Write "No AI tools were used."
